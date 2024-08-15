@@ -1,1 +1,1 @@
-# StockForecastModel
+stockforecast.py is responsible for forecasting any stock using yfinance data, subjectfinder.py is responsible for finding the subject in a question, testing.py is responsible for finding the intent of a question
