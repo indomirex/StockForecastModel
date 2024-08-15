@@ -1,1 +1,2 @@
-stockforecast.py is responsible for forecasting any stock using yfinance data, subjectfinder.py is responsible for finding the subject in a question, testing.py is responsible for finding the intent of a question
+stockforecast.py is responsible for forecasting any stock using yfinance data, subjectfinder.py is responsible for finding the subject in a question, testing.py is responsible for finding the intent of a question, time_classifier.py is responsible for finding any time period in a question, and chatbot.py is still a work in progress but is looking to combine all these to create a chatbot. 
+Scope of possible actions and questions are still expanding.
